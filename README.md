@@ -2,9 +2,9 @@
 
 I'm a developer and an aspiring computing student who enjoys working with Web-Based projects, interacting with APIs and develop useful & intereactive websites, games, client areas, progressive web applications (softwares), and other stuff.
 
-I'm currently mostly working on Backend projects.
+I'm currently mostly working with TypeScript, JavaScript & Java. I'm also currently picking up Rust.
 
-I'm also currently trying to develop a personal portfolio.
+I'm also currently developing a personal portfolio.
 
 ## 📊 GitHub Statistics
 
