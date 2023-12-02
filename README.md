@@ -1,10 +1,10 @@
-# 👋 Hey there! I'm Kar.
+# 👋 Hey there! I'm Kar Lok, but I would prefer you just called me Kar.
 
-I'm a developer and an aspiring computing student who enjoys working with Web-Based projects, interacting with APIs and develop useful & intereactive websites, games, client areas, progressive web applications (softwares), and other stuff.
+I'm a backend focused developer, who is currently studying and working. I enjoy planning system architecture, building performant backend and doing all that unnecessary premature optimisations.
 
-I'm currently mostly working with TypeScript, JavaScript & Java. I'm also currently picking up Rust.
+I'm familiar working with `TypeScript`, `JavaScript`, `Rust` and `Go`.
 
-I'm also currently developing a personal portfolio.
+I'm also currently developing a personal portfolio (LOL this doesn't seem like it'll ever be finished 💀).
 
 ## 📊 GitHub Statistics
 
