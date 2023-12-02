@@ -1,6 +1,6 @@
 # 👋 Hey there! I'm Kar Lok, but I would prefer you just called me Kar.
 
-I'm a backend focused developer, who is currently studying and working. I enjoy planning system architecture, building performant backend and doing all that unnecessary premature optimisations.
+I'm a backend focused developer, who is currently studying and working. I enjoy planning system architecture, building performant backend and doing all that unnecessary premature optimisations. Also, I code in NeoVim by the way 😎.
 
 I'm familiar working with `TypeScript`, `JavaScript`, `Rust` and `Go`.
 
